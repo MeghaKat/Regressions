@@ -1,4 +1,4 @@
-# Regressions
+# Classifying Handwritten Digits (MNIST dataset) using Machine Learning
 
 ## Objective
 To investigating the classification performance of linear and logistic regression.
