@@ -9,5 +9,12 @@ For both linear and logistic regression, implementations are done in Numpy. For 
 For TensorFlow APIs for useful utility functions, visit : https://www.tensorflow.org/api_docs/python/.
 
 ## RESULTS
-## LINEAR REGRESSION
+### LINEAR REGRESSION
 ### Tuning the Learning Rate
+![](images/LinearTuningLR.PNG)
+
+### Linear Vs Logistic
+![](images/LinearvsLogistic.PNG)
+
+### Batch Size Investigation for MSE
+![](images/BatchSizeMSE.PNG)
